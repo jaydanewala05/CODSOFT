@@ -1,0 +1,6 @@
+# CodSoft AI Task 5 – Face Detection & Recognition
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0   # needed for LBPH recognizer
+numpy>=1.24.0
